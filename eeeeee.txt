@@ -1,1 +1,1 @@
-hoc git flow
+hoc git flow basic
